@@ -2,7 +2,9 @@ Hi there, I'm Heloise! 😄
 
 - 🔭 I’m currently working on my own project
 - 🌱 I’m currently learning all about programming for beginners
-
+  
+  ##
+ 
 <div align="center">
   <a href="https://github.com/heloiseberbetz">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heloiseberbetz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
