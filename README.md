@@ -10,6 +10,7 @@ Hi there, I'm Heloise! 😄
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=heloiseberbetz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloiseberbetz&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Helo-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Helo-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,5 +21,5 @@ Hi there, I'm Heloise! 😄
   ##
  
 <div align="center"
-  <a href="https://www.linkedin.com/in/heloiselui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/heloiselui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
