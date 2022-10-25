@@ -18,8 +18,8 @@
 ## <h3>⚙️ &nbsp;GitHub Analytics</h3>
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=heloiseberbetz&show_icons=true&theme=radical&include_all_" alt="heloiseberbetz's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloiseberbetz&layout=compact&theme=radical&include_all_" alt="heloiseberbetz's most languages"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=heloiseberbetz&show_icons=true&theme=radical&include_all_" alt="heloiseberbetz's stats"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloiseberbetz&layout=compact&theme=radical&include_all_" alt="heloiseberbetz's most languages"/>
 </p>
 
 <p align="left" style="background:yellow">
