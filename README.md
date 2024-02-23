@@ -1,9 +1,9 @@
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">, I'm Heloise</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heloiseberbetz&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 I’m currently working on my own project
-- 🌱 I’m currently learning all about web programming
-- ⚡ About me: I left my degree area to start a new challenge in programming
+- 🔭 Currently, I'm working on my personal projects.
+- 🌱 I'm in the process of learning more about web programming.
+- ⚡ A bit about me: I transitioned from my degree field to take on a new challenge in programming.
 
 ## 🛠 &nbsp;Tech Stack
 
